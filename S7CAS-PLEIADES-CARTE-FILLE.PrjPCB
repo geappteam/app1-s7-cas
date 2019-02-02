@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for S7CAS-PLEIADES-CARTE-FILLE
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -260,52 +260,52 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Project_Stencil_Top_Thickness
-Value=0.1 MM
+Name=Project_Date
+Value=2019-01-28
 
 [Parameter2]
-Name=Project_Stencil_Bot_Thickness
-Value=0.1 MM
-
-[Parameter3]
-Name=Project_Revision
-Value=1.000
-
-[Parameter4]
-Name=Project_Name
-Value=Carte Fille
-
-[Parameter5]
-Name=Project_Group
-Value=P04
-
-[Parameter6]
-Name=Project_Global
-Value=PLEIADES
-
-[Parameter7]
-Name=Project_Designer4
-Value=Anthony Paris
-
-[Parameter8]
-Name=Project_Designer3
-Value=Philippe Marcoux
-
-[Parameter9]
-Name=Project_Designer2
-Value=Édouard Denommée
-
-[Parameter10]
-Name=Project_Designer1
-Value=Olivier Belval
-
-[Parameter11]
 Name=Project_DateCode
 Value=DCXXXX
 
+[Parameter3]
+Name=Project_Designer1
+Value=Olivier Belval
+
+[Parameter4]
+Name=Project_Designer2
+Value=Édouard Denommée
+
+[Parameter5]
+Name=Project_Designer3
+Value=Philippe Marcoux
+
+[Parameter6]
+Name=Project_Designer4
+Value=Anthony Paris
+
+[Parameter7]
+Name=Project_Global
+Value=PLEIADES
+
+[Parameter8]
+Name=Project_Group
+Value=P04
+
+[Parameter9]
+Name=Project_Name
+Value=Carte Fille
+
+[Parameter10]
+Name=Project_Revision
+Value=1.000
+
+[Parameter11]
+Name=Project_Stencil_Bot_Thickness
+Value=0.1 MM
+
 [Parameter12]
-Name=Project_Date
-Value=2019-01-28
+Name=Project_Stencil_Top_Thickness
+Value=0.1 MM
 
 [Configuration1]
 Name=Sources
@@ -354,7 +354,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for S7CAS-PLEIADES-CARTE-FILLE
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
