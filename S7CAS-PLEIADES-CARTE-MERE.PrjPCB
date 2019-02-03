@@ -495,7 +495,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UXEXAKKG
 
 [Document28]
 DocumentPath=LIBRARY\PhilFootprint.PcbLib
@@ -512,55 +512,72 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JYRKEVLP
+
+[Document29]
+DocumentPath=LIBRARY\Custom.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ALOACEIS
 
 [Parameter1]
-Name=Project_Stencil_Top_Thickness
-Value=0.1 MM
+Name=Project_Date
+Value=2019-01-28
 
 [Parameter2]
-Name=Project_Stencil_Bot_Thickness
-Value=0.1 MM
-
-[Parameter3]
-Name=Project_Revision
-Value=1.000
-
-[Parameter4]
-Name=Project_Name
-Value=Carte Mère
-
-[Parameter5]
-Name=Project_Group
-Value=P05
-
-[Parameter6]
-Name=Project_Global
-Value=PLEIADES
-
-[Parameter7]
-Name=Project_Designer4
-Value=Anthony Paris
-
-[Parameter8]
-Name=Project_Designer3
-Value=Philippe Marcoux
-
-[Parameter9]
-Name=Project_Designer2
-Value=Édouard Denommée
-
-[Parameter10]
-Name=Project_Designer1
-Value=Olivier Belval
-
-[Parameter11]
 Name=Project_DateCode
 Value=DCXXXX
 
+[Parameter3]
+Name=Project_Designer1
+Value=Olivier Belval
+
+[Parameter4]
+Name=Project_Designer2
+Value=Édouard Denommée
+
+[Parameter5]
+Name=Project_Designer3
+Value=Philippe Marcoux
+
+[Parameter6]
+Name=Project_Designer4
+Value=Anthony Paris
+
+[Parameter7]
+Name=Project_Global
+Value=PLEIADES
+
+[Parameter8]
+Name=Project_Group
+Value=P05
+
+[Parameter9]
+Name=Project_Name
+Value=Carte Mère
+
+[Parameter10]
+Name=Project_Revision
+Value=1.000
+
+[Parameter11]
+Name=Project_Stencil_Bot_Thickness
+Value=0.1 MM
+
 [Parameter12]
-Name=Project_Date
-Value=2019-01-28
+Name=Project_Stencil_Top_Thickness
+Value=0.1 MM
 
 [Configuration1]
 Name=Sources
