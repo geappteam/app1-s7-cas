@@ -307,7 +307,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JYRKEVLP
 
 [Document17]
 DocumentPath=LIBRARY\Custom.SchLib
@@ -341,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VMWYTTBI
 
 [Document19]
 DocumentPath=CF_PCB.PcbDoc
@@ -358,7 +358,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HNDXMFEC
+DocumentUniqueId=QDAWKSFD
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-FILLE\Design Rule Check - CF_PCB.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Project_Date
