@@ -360,10 +360,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDAWKSFD
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for S7CAS-PLEIADES-CARTE-FILLE\Design Rule Check - CF_PCB.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Project_Date
 Value=2019-01-28
